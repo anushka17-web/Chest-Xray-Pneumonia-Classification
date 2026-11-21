@@ -1,0 +1,6 @@
+results/models/ResNet50_backbone.keras filter=lfs diff=lfs merge=lfs -text
+results/models/ResNet50_head.keras filter=lfs diff=lfs merge=lfs -text
+results/models/EfficientNetV2B0_backbone.keras filter=lfs diff=lfs merge=lfs -text
+results/models/EfficientNetV2B0_head.keras filter=lfs diff=lfs merge=lfs -text
+results/models/ConvNeXtTiny_backbone.keras filter=lfs diff=lfs merge=lfs -text
+results/models/ConvNeXtTiny_head.keras filter=lfs diff=lfs merge=lfs -text

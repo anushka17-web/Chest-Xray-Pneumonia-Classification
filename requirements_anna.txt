@@ -1,0 +1,10 @@
+tensorflow
+keras>=3.0
+keras-hub
+numpy
+pandas
+matplotlib
+scikit-learn
+Pillow
+ipython
+kaggle

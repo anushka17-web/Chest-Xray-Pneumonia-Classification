@@ -1,0 +1,20 @@
+
+venv/
+.venv/
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+*.ipynb
+kaggle.json
+.env
+.DS_Store
+
+# Training datasets
+data/
+
+# Training outputs not required for deployment
+results/plots/
+results/*.csv
+
+# Old unused model
+best_resnet50.keras
